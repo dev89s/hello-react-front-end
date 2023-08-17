@@ -71,11 +71,10 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Install Ruby
-- Install Rails
-- Install Rspec
-- Install Postgresql
 - Install React
+- Install React Router Dom
+- Install Redux
+- Install Redux toolkit
 
 ### Setup
 
@@ -91,7 +90,7 @@ Install this project with:
 
 ```
   cd recipe_app
-  bundle install && npm install
+  npm install
 ```
 
 ### Usage
@@ -99,7 +98,7 @@ Install this project with:
 To run the project, execute the following command:
 
 ```
-  rails s
+  npm start
 ```
 or
 
