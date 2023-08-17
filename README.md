@@ -89,7 +89,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```
-  cd recipe_app
+  cd hello-react-front-end
   npm install
 ```
 
@@ -100,26 +100,6 @@ To run the project, execute the following command:
 ```
   npm start
 ```
-or
-
-```
-./bin/dev
-```
-
-### Run tests
-
-To run tests, run the following command:
-
-```
-  rubocop --color
-```
-```
-  npx stylelint "**/*.{css,scss}"
-```
-```
-  rspec spec
-```
-
 
 ### Deployment <a id="triangular_flag_on_post-deployment"></a>
 
