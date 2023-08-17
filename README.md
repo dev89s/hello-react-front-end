@@ -27,7 +27,7 @@
 
 # 📖 [Hello React Frontend] <a id="about-project"></a>
 
-**[Hello React Frontend]** is a test app based on React and setup to work with it's [back end](https://github.com/dev89s/hello-rails-back-end)
+**[Hello React Frontend]** is a test app based on React and is setup to work with it's [back end](https://github.com/dev89s/hello-rails-back-end)
 
 ## 🛠 Built With <a id="built-with"></a>
 
